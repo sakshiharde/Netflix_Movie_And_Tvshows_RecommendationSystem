@@ -1,4 +1,7 @@
 # Netflix_Movie_And_Tvshows_RecommendationSystem
+<p align='center'>
+  <a href="#"><img src="https://user-images.githubusercontent.com/96771321/214456292-ef421cff-a59f-46a1-9411-fef980ee6814.gif" width="400"></a>
+</p>
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.
 
